@@ -43,7 +43,7 @@
   <a href="https://dev.to/abolfazllsadri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="devto logo"  />
   </a>
-  <a href="abolfazldev86@gmail.com" target="_blank">
+  <a href="mailto:abolfazldev86@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
 </div>
