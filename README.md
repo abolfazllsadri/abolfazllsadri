@@ -1,59 +1,50 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Abolfazl%20Sadri&fontSize=48&fontColor=ffffff&desc=Frontend%20Developer&descSize=18&descAlignY=72)
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="60" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="60" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
-###
+## Who am I?
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/abolfazl-sadri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/abolfazllsadri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="devto logo"  />
-  </a>
-  <a href="mailto:abolfazldev86@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  </a>
-</div>
+Hi, I'm **Abolfazl Sadri**, a frontend developer from Iran. I've been building for the web for about three years, and I'm focused on React and Next.js. I like turning ideas into clean, responsive and modern interfaces, and I share what I learn through daily posts on [LinkedIn](https://www.linkedin.com/in/abolfazl-sadri).
 
-###
+## What I do
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abolfazllsadri/abolfazllsadri/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abolfazllsadri/abolfazllsadri/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abolfazllsadri/abolfazllsadri/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+- Build responsive, modern UIs with React, Next.js and Tailwind CSS
+- Build full-stack features with Supabase, Auth.js and Stripe
+- Practice on real-world projects and clones to sharpen my skills
+- Share frontend tips, tutorials and news every day on LinkedIn
 
-###
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,styledcomponents,supabase,firebase,appwrite,mysql,git,github&perline=8" alt="Tech stack" />
+</p>
+
+## Featured projects
+
+| Project | Description |
+| --- | --- |
+| [the-wild-oasis-website](https://github.com/abolfazllsadri/the-wild-oasis-website) | Luxury cabin booking website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, Supabase, Auth.js and Stripe Checkout |
+| [the-wild-oasis](https://github.com/abolfazllsadri/the-wild-oasis) | Hotel management dashboard for staff, built with React |
+| [linkedin-clone](https://github.com/abolfazllsadri/linkedin-clone) | LinkedIn clone built with Next.js |
+| [facebook-clone](https://github.com/abolfazllsadri/facebook-clone) | Facebook clone built with Next.js |
+| [todo-list](https://github.com/abolfazllsadri/todo-list) | My first full JavaScript project |
+
+## Currently learning
+
+- Advanced TypeScript patterns
+- Advanced Next.js (rendering strategies, caching, performance)
+- Advanced Tailwind CSS techniques
+
+## Open to work
+
+Open to full-time, part-time, remote and freelance frontend opportunities.
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-sadri)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abolfazllsadri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazldev86@gmail.com)
+
+![pacman contribution graph](https://raw.githubusercontent.com/abolfazllsadri/abolfazllsadri/pacman-output/pacman-contribution-graph.svg?game=pacman)
